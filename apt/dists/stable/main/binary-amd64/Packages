@@ -1,0 +1,18 @@
+Package: yespapa
+Version: 0.1.1
+Architecture: amd64
+Maintainer: YesPaPa Contributors <hello@yespapa.dev>
+Depends: nodejs (>= 18)
+Filename: pool/stable/main/yespapa_0.1.1_amd64.deb
+Size: 3568822
+MD5sum: 4cb23d12478a54832be6a2960fc5d9e1
+SHA1: ee005e67d0383c2be9c8f30a5f0e77448dde226e
+SHA256: b41406a383914933c7ac321f91db821863a6d53f059b627dcc954992e3691321
+Section: utils
+Priority: optional
+Homepage: https://github.com/yespapa-cli/yespapa
+Description: TOTP-authenticated command gateway for AI agents
+ YesPaPa intercepts dangerous shell commands and requires human
+ approval via TOTP code before they execute. Works with any standard
+ TOTP authenticator app.
+

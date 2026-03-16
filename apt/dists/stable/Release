@@ -1,0 +1,13 @@
+Origin: YesPaPa
+Label: YesPaPa
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: YesPaPa APT Repository
+MD5Sum:
+ aa81603de57e5d0ea0bcf217c7c89fd9 484 main/binary-amd64/Packages.gz
+ 54b1f49573f4b4b188022a3b22028808 659 main/binary-amd64/Packages
+SHA256:
+ c6d5070a236ceaa1bd1e2320db7aeb97bfbd4c5a45776dbed08a52f229763be5 484 main/binary-amd64/Packages.gz
+ 0952b74ddbd743823f892c3fc6b4649837ef4257d9019fc744845e91d8b7db00 659 main/binary-amd64/Packages

@@ -1,0 +1,32 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: YesPaPa
+Label: YesPaPa
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: YesPaPa APT Repository
+MD5Sum:
+ aa81603de57e5d0ea0bcf217c7c89fd9 484 main/binary-amd64/Packages.gz
+ 54b1f49573f4b4b188022a3b22028808 659 main/binary-amd64/Packages
+SHA256:
+ c6d5070a236ceaa1bd1e2320db7aeb97bfbd4c5a45776dbed08a52f229763be5 484 main/binary-amd64/Packages.gz
+ 0952b74ddbd743823f892c3fc6b4649837ef4257d9019fc744845e91d8b7db00 659 main/binary-amd64/Packages
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEoWPcv0M599qTrIiFffrHqiG6aY0FAmm4L6YACgkQffrHqiG6
+aY1zEw/9EQInDzTaPvyH9BlP/l3pe5/Pv4TZlz5+gz1/Ls16PzCG6yAbrJ6rWCKW
+WLvyyZzlP6AuJ5+6naCs2G989Y3NRwHKp3ezW2zsKfdo/CHPACJPZCKdQR3Akvyn
+nhg2Z+2W6NQK/tFcTMJPgdfZBKXM+KKJrQdmxCZ0zWk/9bIziBOXwsX4VLSiOXE0
+iZ9/DTGtmdiHP2qEy7lhV2ZocbYbJ5idlmWNCbfvzqQ6M2njBionCb9dyeMngV3n
+hjNNArszdxCMXepKMiH445xsqpv5DWcQ+3ol80xu+5IxknYMNFjBHmj/dRQjE//X
+ri1I5Qorh1EPw+ta5M9HLsP7bVTejc9uiCbv12EdPXEuQDmykFPBwEPU4uTHnBqH
+bxhBayUmwoasSppTNLFYaVdEse8m2klxZgwtVKJ+gc4g8Xw5xUm0ge9CmOg+xzKp
+kJ+LfTxN9Qr+VTBc6y4CEKSX0YC831mzIvw+FHflWDh4Nf/jHbfcP4KmHrEGMwhb
+hpCBUyW2b/AFgCa9TyBdJWKf8goVfOkRezSSnj4NLFwUj4S27W1aZTgrXDSdyF9V
+RCrEfO/nN7fxGaKSFXOJWWGtjnLSO1Mlq/rvyM3i2P8o20PI37P3W/Y3ZIPYN9pu
+PZmHLnnexLCS0haME9LtXcRjXTvtMxO0gS5/QrKDaWRiHx5DWUM=
+=+F2w
+-----END PGP SIGNATURE-----
