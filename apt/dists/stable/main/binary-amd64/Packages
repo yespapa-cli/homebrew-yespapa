@@ -4,10 +4,10 @@ Architecture: amd64
 Maintainer: YesPaPa Contributors <hello@yespapa.dev>
 Depends: nodejs (>= 18)
 Filename: pool/stable/main/yespapa_0.1.1_amd64.deb
-Size: 3568822
-MD5sum: 4cb23d12478a54832be6a2960fc5d9e1
-SHA1: ee005e67d0383c2be9c8f30a5f0e77448dde226e
-SHA256: b41406a383914933c7ac321f91db821863a6d53f059b627dcc954992e3691321
+Size: 3568766
+MD5sum: 27c2c63e80eb60d495eafbdd8147ac16
+SHA1: 43fbbcaf3af896e295407ebeb0c3f4eb4ebd1358
+SHA256: b888ca46f83fd5d9ce62bf67e422aae888f82cfe4446ae6dc963b32ce219a719
 Section: utils
 Priority: optional
 Homepage: https://github.com/yespapa-cli/yespapa
