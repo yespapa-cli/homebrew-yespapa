@@ -1,8 +1,8 @@
 class Yespapa < Formula
   desc "TOTP-authenticated command gateway for AI agents and dangerous shell commands"
   homepage "https://github.com/yespapa-cli/yespapa"
-  url "https://registry.npmjs.org/yespapa/-/yespapa-0.1.2.tgz"
-  sha256 "c394e52b137bfaeff1b6196931d43006a15d9df4b8c9d9dcb2cfedb59e5517e5"
+  url "https://registry.npmjs.org/yespapa/-/yespapa-0.1.3.tgz"
+  sha256 "bf64399890e9d5b7c760676edd0ef313796353b2248d6cf7d1f41d4520ed8190"
   license "MIT"
 
   depends_on "node"
